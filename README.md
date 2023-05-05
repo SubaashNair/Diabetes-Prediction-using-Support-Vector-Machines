@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 4. Open the `Diabetes_Prediction_SVM.ipynb` file and execute the cells to train the model and launch the Gradio app.
 
-![Diabetes Prediction using SVM](https://example.com/path/to/your/image.png)
+![Diabetes Prediction using SVM](https://github.com/SubaashNair/Diabetes-Prediction-using-Support-Vector-Machines/blob/main/Diabetes_gradio.png)
 
 ## Contributing
 
